@@ -1,1 +1,1 @@
-untuk praktikum 1 # Bioinformatika-Class 
+Repository untuk praktikum 1 # Bioinformatika-Class 
